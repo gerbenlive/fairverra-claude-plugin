@@ -20,8 +20,10 @@ MCP server at https://api.fairverra.com/mcp. That server receives the
 domain name, contact fields (name, address, phone, email), wallet and
 quote actions, and DNS or nameserver changes you approve. You sign in
 with email and a one-time code (OAuth). Paid confirms debit the prepaid
-EUR wallet. Fairverra keeps account data under
-https://fairverra.com/privacy. The plugin does not send data anywhere
+EUR wallet. Fairverra keeps account data under the privacy policy at
+https://fairverra.com/privacy. Terms: https://fairverra.com/terms.
+Legal index: https://fairverra.com/legal. Support: info@fairverra.com
+or https://fairverra.com/docs. The plugin does not send data anywhere
 else and does not collect conversation text.
 
 ## Install
