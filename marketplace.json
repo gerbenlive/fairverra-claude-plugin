@@ -1,0 +1,15 @@
+{
+  "name": "fairverra",
+  "description": "Fairverra plugins for Claude Code: domain registration, DNS and project connect.",
+  "owner": {
+    "name": "Fairverra",
+    "url": "https://fairverra.com"
+  },
+  "plugins": [
+    {
+      "name": "fairverra",
+      "source": "./",
+      "description": "Register a domain and point it at the project you have open. Uses the Fairverra remote MCP server."
+    }
+  ]
+}

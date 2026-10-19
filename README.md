@@ -28,18 +28,17 @@ else and does not collect conversation text.
 
 ## Install
 
-Once listed, add Fairverra from Plugins in Claude or from the Cursor Marketplace.
+One-click (Cursor, Claude, Claude Code): https://fairverra.com/ai
+
+```
+claude plugin marketplace add gerbenlive/fairverra-claude-plugin
+claude plugin install fairverra@fairverra
+```
 
 From this plugin repository:
 
 ```
 claude --plugin-dir .
-```
-
-From the Fairverra portal checkout:
-
-```
-claude --plugin-dir ./plugins/fairverra
 ```
 
 New account: https://fairverra.com/get-started. Sandbox (no real
