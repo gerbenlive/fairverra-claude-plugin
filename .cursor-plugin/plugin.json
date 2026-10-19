@@ -1,0 +1,15 @@
+{
+  "name": "fairverra",
+  "displayName": "Fairverra",
+  "version": "1.0.0",
+  "description": "Register, transfer and point internet domains at the project you have open. Uses the Fairverra remote MCP connector.",
+  "author": {
+    "name": "Fairverra",
+    "email": "info@fairverra.com"
+  },
+  "homepage": "https://fairverra.com/docs",
+  "repository": "https://github.com/gerbenlive/fairverra-claude-plugin",
+  "license": "MIT",
+  "keywords": ["domains", "dns", "registrar", "mcp"],
+  "logo": ".claude-plugin/icon.png"
+}

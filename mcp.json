@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fairverra": {
+      "type": "http",
+      "url": "https://api.fairverra.com/mcp"
+    }
+  }
+}

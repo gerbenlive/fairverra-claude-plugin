@@ -1,6 +1,6 @@
 # Fairverra
 
-Register a domain from Claude Code and point it at the project you have open.
+Register a domain from Claude Code or Cursor and point it at the project you have open.
 
 Ask Claude to register a name and connect it. The plugin opens the Fairverra
 connector, checks availability, shows the priced quote, and only confirms after
@@ -28,7 +28,7 @@ else and does not collect conversation text.
 
 ## Install
 
-Once listed in the Claude directory, add Fairverra from Plugins.
+Once listed, add Fairverra from Plugins in Claude or from the Cursor Marketplace.
 
 From this plugin repository:
 
