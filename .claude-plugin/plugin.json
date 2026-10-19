@@ -9,6 +9,7 @@
   },
   "homepage": "https://fairverra.com/docs",
   "repository": "https://github.com/gerbenlive/fairverra-claude-plugin",
+  "icon": "./.claude-plugin/icon.png",
   "license": "MIT",
   "keywords": ["domains", "dns", "registrar", "mcp"]
 }

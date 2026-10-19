@@ -28,10 +28,16 @@ else and does not collect conversation text.
 
 Once listed in the Claude directory, add Fairverra from Plugins.
 
-From a checkout of this repository:
+From this plugin repository:
 
 ```
 claude --plugin-dir .
+```
+
+From the Fairverra portal checkout:
+
+```
+claude --plugin-dir ./plugins/fairverra
 ```
 
 New account: https://fairverra.com/get-started. Sandbox (no real
